@@ -1,8 +1,8 @@
-# Membership
+# Employment and Membership
 
 ### Membership Classes
 
-* Class and eligibility
+* Classes and eligibility
 
 * Requirements
 
