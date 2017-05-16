@@ -1,6 +1,6 @@
 # platform-cooperative-bylaws-boilerplate
 
-A boilerplate for platform cooperative bylaws
+A boilerplate for platform cooperative bylaws. View at [platform-cooperative-bylaws-boilerplate](https://www.gitbook.com/book/roblevintennis/platform-cooperative-bylaws-boilerplate)
 
 ## Github / Gitbook Integration
 
